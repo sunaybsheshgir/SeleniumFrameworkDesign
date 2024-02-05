@@ -1,0 +1,8 @@
+sunaySheshgir\pageObjects\ConfirmationPage.class
+sunaySheshgir\pageObjects\LandingPage.class
+sunaySheshgir\pageObjects\ProductCatalogue.class
+sunaySheshgir\resources\ExtentReportsNG.class
+sunaySheshgir\pageObjects\OrderPage.class
+sunaySheshgir\pageObjects\CheckOutPage.class
+sunaySheshgir\abstractComponents\AbstractComponent.class
+sunaySheshgir\pageObjects\CartPage.class
